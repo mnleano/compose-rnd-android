@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Compose RND</string>
+    <string name="sample_string">This is sample String</string>
+</resources>
